@@ -1,0 +1,2 @@
+F:\上业\易想\ShareManagement\ShareManagement\obj\Release\ShareManagement.csprojAssemblyReference.cache
+F:\上业\易想\ShareManagement\ShareManagement\obj\Release\ShareManagement.csproj.CoreCompileInputs.cache

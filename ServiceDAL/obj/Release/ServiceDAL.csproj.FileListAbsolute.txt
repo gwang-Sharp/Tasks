@@ -1,0 +1,2 @@
+F:\上业\易想\ShareManagement\ServiceDAL\obj\Release\ServiceDAL.csprojAssemblyReference.cache
+F:\上业\易想\ShareManagement\ServiceDAL\obj\Release\ServiceDAL.csproj.CoreCompileInputs.cache
